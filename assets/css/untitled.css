@@ -1,0 +1,59 @@
+#mainNav {
+  background-color: #600d0d !important;
+}
+
+.btn-xl {
+  color: rgb(254,209,54);
+}
+
+.btn-xl:hover {
+  color: #600d0d;
+}
+
+#services {
+}
+
+#services {
+  background-color: 343a40 initial;
+}
+
+.section-subheading {
+  color: rgb(134,142,150) !important;
+}
+
+#sendMessageButton:hover {
+  color: #600d0d;
+}
+
+.btn {
+}
+
+.view-in-mercado-libre-btn:hover {
+}
+
+.view-in-mercado-libre-btn {
+  color: #600d0d;
+  background-color: #fed136;
+}
+
+.view-in-mercado-libre-btn:hover {
+  color: #fed136;
+  background-color: #600d0d !important;
+  border-color: #600d0d !important;
+}
+
+.modal-btn {
+}
+
+.modal-btn {
+  color: #fed136;
+  background-color: #600d0d;
+  border-color: #600d0d;
+}
+
+.modal-btn:hover {
+  color: #600d0d;
+  background-color: #fed136;
+  border-color: #fed136;
+}
+
